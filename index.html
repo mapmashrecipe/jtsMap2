@@ -219,8 +219,7 @@ $(document).ready(function () {
 				var lat = feature.geometry.coordinates[1];
 				layer.bindPopup("<span class='th' style='color:#666666;width:50px;'>No</span>:" + feature.properties.NO 
 				+ "<br/><span class='th' style='color:#666666;'>Date</span>: " + feature.properties.Date 
-				+ "<br/><span class='th' style='color:#666666;'>City</span>: " + feature.properties.City
-				+ "<br/><iframe src='basic.html?lat=" + lat + "&lng=" + lng + "'></iframe>");
+				+ "<br/><span class='th' style='color:#666666;'>City</span>: " + feature.properties.City);
 			}
 		}).addTo(map);
 		jtsMarkerPlane.addTo(map);	

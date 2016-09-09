@@ -1,0 +1,299 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.327091, 52.512566]
+        },
+        "properties": {
+            "NO": "1",
+            "Date": "9/5",
+            "City": "베를린",
+            "Time": "",
+            "Place": "Berlin Institute of Technology",
+            "Address": "Str. des 17. Juni 135, 10623 Berlin, Germany"
+        }
+    },{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.6414796, 50.1044823]
+        },
+        "properties": {
+            "NO": "2",
+            "Date": "9/6",
+            "City": "프랑크푸르트",
+            "Time": "",
+            "Place": "Saalbau Gallus",
+            "Address": "Frankenallee 111, 60326 Frankfurt am Main, Germany"
+        }
+    },  {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [6.776357,51.209411]
+        },
+        "properties": {
+            "NO": "3",
+            "Date": "9/7",
+            "City": "뒤셀도르프",
+            "Time": "",
+            "Place": "",
+            "Address": "Bachstraße 145, 40217 Düsseldorf, Germany"
+        }
+    },{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3722989, 48.8240692]
+        },
+        "properties": {
+            "NO": "4",
+            "Date": "9/8",
+            "City": "파리",
+            "Time": "18:30",
+            "Place": "MAS Paris",
+            "Address": "10 rue des terres au cure, 75013 PARIS France"
+        }
+    },{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-0.131198, 51.522500]
+        },
+        "properties": {
+            "NO": "5",
+            "Date": "9/9",
+            "City": "런던",
+            "Time": "18:00",
+            "Place": "University of Westminster (LITTLE TITCHFIELD STREET - New Large Lecture Theatre)",
+            "Address": "Malet St, London WC1E 7HX, UK +44 20 7631 6000"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-79.35, 43.73]
+        },
+        "properties": {
+            "NO": "6",
+            "Date": "9/10",
+            "City": "토론토",
+            "Time": "17:00",
+            "Place": "토론토 한인회관",
+            "Address": "1133 Leslie St. Toronto,On. M2N 0G5 Canada"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.981056,40.754279]
+        },
+        "properties": {
+            "NO": "7",
+            "Date": "9/11",
+            "City": "맨하탄",
+            "Time": "",
+            "Place": "",
+            "Address": "4 W 43rd St, New York, NY 10036"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [ -74.396631, 40.502574]
+        },
+        "properties": {
+            "NO": "8",
+            "Date": "9/12",
+            "City": "뉴저지",
+            "Time": "",
+            "Place": "Guardian Angels Church",
+            "Address": "54 Larson Ave, Edison, NJ 08817"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.276524, 38.812732]
+        },
+        "properties": {
+            "NO": "9",
+            "Date": "9/13",
+            "City": "미국 페어팩스 VA",
+            "Time": "",
+            "Place": "Lord of Life Lutheran Church",
+            "Address": "5114 Twinbrook Rd, Fairfax, VA 22032"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.152871, 39.082370]
+        },
+        "properties": {
+            "NO": "10",
+            "Date": "9/14",
+            "City": "미국 워싱턴 MD",
+            "Time": "",
+            "Place": "",
+            "Address": "109 S Washington St, Rockville, MD 20850"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.086925, 34.013000]
+        },
+        "properties": {
+            "NO": "11",
+            "Date": "9/15",
+            "City": "아틀란타",
+            "Time": "",
+            "Place": "Peachtree Ridge High School",
+            "Address": "1555 Old Peachtree Rd NW, Suwanee, GA 30024"
+        }
+    },{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-83.021699, 40.054318] 
+        },
+        "properties": {
+            "NO": "12",
+            "Date": "9/16",
+            "City": "콜럼버스",
+            "Time": "",
+            "Place": "",
+            "Address": "93 W Weisheimer Rd, Columbus, OH 43214"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [ -87.906708, 42.076998]
+        },
+        "properties": {
+            "NO": "13",
+            "Date": "9/17",
+            "City": "시카고",
+            "Time": "",
+            "Place": "St. Chong Ha Sang Catholic",
+            "Address": "675 Dursey Ln, Des Plaines, IL 60016"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-96.902782, 32.894549] 
+        },
+        "properties": {
+            "NO": "14",
+            "Date": "9/18",
+            "City": "달라스",
+            "Time": "",
+            "Place": "Sura Korean Restaurant",
+            "Address": "2240 Royal Ln #106, Dallas, TX 75229, +1 972-243-5656"
+        }
+    },{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-95.5070298, 29.8039621]
+        },
+        "properties": {
+            "NO": "15",
+            "Date": "9/19",
+            "City": "텍사스 휴스턴",
+            "Time": "",
+            "Place": "휴스턴한인커뮤니티센터",
+            "Address": "1809 Hollister Rd. Houston TX 77080"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-117.9970151, 33.8576685]
+        },
+        "properties": {
+            "NO": "16",
+            "Date": "9/20",
+            "City": "오렌지 카운티",
+            "Time": "",
+            "Place": "Holiday Inn",
+            "Address": "7000 Beach Blvd., Buena Park, CA 90620"
+        }
+    },{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-117.134057, 32.804216]
+        },
+        "properties": {
+            "NO": "17",
+            "Date": "9/21",
+            "City": "샌디에고",
+            "Time": "",
+            "Place": "St. Columba Catholic Church",
+            "Address": "3327 Glencolum Dr, San Diego, CA 92123"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-118.3106428, 34.0488822]
+        },
+        "properties": {
+            "NO": "18",
+            "Date": "9/22",
+            "City": "엘에이",
+            "Time": "",
+            "Place": "예수그리스도후기성도교회",
+            "Address": "1209 S. Manhattan Pl., Los Angeles, CA90019"
+        }
+    },  {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.043129, 37.377197]
+        },
+        "properties": {
+            "NO": "19",
+            "Date": "9/23",
+            "City": "샌프란시스코",
+            "Time": "",
+            "Place": "St. Thomas Episcopal Church",
+            "Address": "231 Sunset Ave, Sunnyvale, CA 94086"
+        }
+    },{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.196899, 47.480718]
+        },
+        "properties": {
+            "NO": "20",
+            "Date": "9/24",
+            "City": "시애틀",
+            "Time": "18:30",
+            "Place": "Carco Theatre",
+            "Address": "1717 SE Maple Valley Hwy, Renton, WA 98057"
+        }
+    },{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-123.068585, 49.255531]
+        },
+        "properties": {
+            "NO": "21",
+            "Date": "9/25",
+            "City": "캐나다벤쿠버",
+            "Time": "",
+            "Place": "Croatian Cultural Centre",
+            "Address": "3250 Commercial Drive, Vancouver B.C.Canada V5N 4E4"
+        }
+    } ]
+}

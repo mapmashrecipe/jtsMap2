@@ -1,0 +1,1614 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.6414796, 50.1044823]
+        },
+        "properties": {
+            "NO": "1",
+            "Date": "8/26 (화)",
+            "City": "프랑크푸르트",
+            "Time": "18:30",
+            "Place": "Saalbau Gallus",
+            "Address": "Frankenallee 111, 60326 Frankfurt am Main, Germany"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.4461723, 46.9492116]
+        },
+        "properties": {
+            "NO": "2",
+            "Date": "8/27 (수)",
+            "City": "베른",
+            "Time": "18:30",
+            "Place": "프랑스교회 (Franzosische Kirche) - Nicolas Manuel",
+            "Address": "Predigergasse 3, 3011 Bern 7, Switzerland"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.2218237, 45.5023422]
+        },
+        "properties": {
+            "NO": "3",
+            "Date": "8/28 (목)",
+            "City": "밀라노",
+            "Time": "19:00",
+            "Place": "BEST WESTERN Antares Hotel Concorde - Rubino",
+            "Address": "Viale Monza, 132 - 20127 - Milano, Italy"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.2625198, 43.7727438]
+        },
+        "properties": {
+            "NO": "4",
+            "Date": "8/29 (금)",
+            "City": "피렌체",
+            "Time": "19:00",
+            "Place": "Suore Oblate dell'Assunzione (Sanctuary B&B Firenze)",
+            "Address": "Borgo Pinti 15, 50121 Firenze"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [12.4846806, 41.86889040]
+        },
+        "properties": {
+            "NO": "5",
+            "Date": "8/30 (토)",
+            "City": "로마",
+            "Time": "16:00",
+            "Place": "Villa Benedetta",
+            "Address": "Via della Moletta, 10 00154 Roma"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [11.49869, 48.09522]
+        },
+        "properties": {
+            "NO": "6",
+            "Date": "8/31 (일)",
+            "City": "뮌헨",
+            "Time": "18:00",
+            "Place": "Alten-u. Service-Zentrum",
+            "Address": "Zuricher Str. 80, 81476 Munchen, Germany"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [16.416936, 48.2385093]
+        },
+        "properties": {
+            "NO": "7",
+            "Date": "9/01 (월)",
+            "City": "비엔나",
+            "Time": "19:00",
+            "Place": "오스트리아 한인문화회관 (Korea Kulturhaus)",
+            "Address": "Arbeiterstrandbadstrasse 122, 1220 Austria"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [19.0188414, 47.4905833]
+        },
+        "properties": {
+            "NO": "8",
+            "Date": "9/02 (화)",
+            "City": "부다페스트",
+            "Time": "19:00",
+            "Place": "주헝가리 한국문화원",
+            "Address": "Csorsz utca 49 1124 Budapest, Hungary"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [14.3864191, 50.1024302]
+        },
+        "properties": {
+            "NO": "9",
+            "Date": "9/03 (수)",
+            "City": "프라하",
+            "Time": "18:30",
+            "Place": "프라하성당 sv. Vojtecha",
+            "Address": "Kolejni 676/4 ,160 00 Praha 6, Dejvice, Czech Republic"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [21.0291461, 52.23155209]
+        },
+        "properties": {
+            "NO": "10",
+            "Date": "9/04 (목)",
+            "City": "바르샤바",
+            "Time": "19:00",
+            "Place": "주폴란드 한국문화원",
+            "Address": "Ul. Kruczkowskiego 8 (Nordic Park, Parter), 00-380, Warszawa, Poland"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [13.28855, 52.45066]
+        },
+        "properties": {
+            "NO": "11",
+            "Date": "9/05 (금)",
+            "City": "베를린",
+            "Time": "18:00",
+            "Place": "베를린 자유대학 강당 1A (Horsaal 1A Freie Universitat Berlin)",
+            "Address": "Habelschwerdter Allee 45, 14195 Berlin, , Germany"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [32.163611, 56.918056]
+        },
+        "properties": {
+            "NO": "12",
+            "Date": "9/06 (토)",
+            "City": "모스크바",
+            "Time": "16:00",
+            "Place": "루스까야 뻬스냐 소극장(mali zal)",
+            "Address": "Olimpiyskiy Prospekt Dom 14, Diamond Hall Business center, Moscow, Russia"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [30.3, 59.95]
+        },
+        "properties": {
+            "NO": "13",
+            "Date": "9/07 (일)",
+            "City": "상트베테르부르크",
+            "Time": "16:00",
+            "Place": "상트페테르부르크 장로교회",
+            "Address": "울리짜 딸린스까야 9/ 195196 St.Petesrburg Ulitsa Tallinskaya Dom 9"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [24.8316729, 60.1810402]
+        },
+        "properties": {
+            "NO": "14",
+            "Date": "9/08 (월)",
+            "City": "헬싱키",
+            "Time": "18:00",
+            "Place": "Aalto대 Design Factory - the Stage",
+            "Address": "BETONIMIEHENKUJA 5C, 02150, ESPOO, FINLAND"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [18.0685808, 59.32932349]
+        },
+        "properties": {
+            "NO": "15",
+            "Date": "9/09 (화)",
+            "City": "스톡홀름",
+            "Time": "18:00",
+            "Place": "NRF Korea (한국연구재단)",
+            "Address": "M?ster Samuelsgatan 60, 9FL, Stockholm"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [10.7285575, 59.9202781]
+        },
+        "properties": {
+            "NO": "16",
+            "Date": "9/10 (수)",
+            "City": "오슬로",
+            "Time": "19:00",
+            "Place": "Litteraturhuset (Room Kverneland)",
+            "Address": "Wergelandsveien 29, 0167 Oslo Norway"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [12.572899, 55.734004]
+        },
+        "properties": {
+            "NO": "17",
+            "Date": "9/11 (목)",
+            "City": "코펜하겐",
+            "Time": "18:00",
+            "Place": "Hellerup Kirke Sognegarden",
+            "Address": "Margrethevej 7B 2900 Hellerup, Denmark"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [9.988828, 53.568394]
+        },
+        "properties": {
+            "NO": "18",
+            "Date": "9/12 (금)",
+            "City": "함부르크",
+            "Time": "19:00",
+            "Place": "Museum fur Volkerkunde Hamburg",
+            "Address": "Rothenbaumchaussee 64, 20148 Hamburg, Germany"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [4.825158399999999, 52.38]
+        },
+        "properties": {
+            "NO": "19",
+            "Date": "9/13 (토)",
+            "City": "암스테르담",
+            "Time": "16:00",
+            "Place": "네덜란드 교회 De Ontmoeting",
+            "Address": "Louis Couperusstraat 133, 1064 CE Amsterdam"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [4.4203378, 50.832032]
+        },
+        "properties": {
+            "NO": "20",
+            "Date": "9/14 (일)",
+            "City": "브뤼셀",
+            "Time": "14:00",
+            "Place": "도서박물관 강의실 (Bibliotheca Wittockiana)",
+            "Address": "23 rue du Bemel, 1150 Brussels, Belgium"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.3722989, 48.8240692]
+        },
+        "properties": {
+            "NO": "21",
+            "Date": "9/15 (월)",
+            "City": "파리",
+            "Time": "18:30",
+            "Place": "MAS Paris",
+            "Address": "10 rue des terres au cure, 75013 PARIS France"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [6.898309999999999, 51.15]
+        },
+        "properties": {
+            "NO": "22",
+            "Date": "9/16 (화)",
+            "City": "뒤셀도르프",
+            "Time": "18:30",
+            "Place": "Freizeitstatte Garath",
+            "Address": "Fritz-Erler-Straße 21, 40595 Dusseldorf, Germany"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [28.9754468, 41.0300695]
+        },
+        "properties": {
+            "NO": "23",
+            "Date": "9/17 (수)",
+            "City": "이스탄불",
+            "Time": "18:00",
+            "Place": "Convento Santa Maria Draperis (Korean Catholic)",
+            "Address": "Istiklal Caddesi n.215/1, 34433 Beyoglu-Istanbul, TURKEY"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [23.7636023, 37.946283 ]
+        },
+        "properties": {
+            "NO": "24",
+            "Date": "9/18 (목)",
+            "City": "아테네",
+            "Time": "19:30",
+            "Place": "Best Western Fenix Hotel",
+            "Address": "Artemisiou 1-3, Glyfada, Athens"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-3.6948981, 40.4713095]
+        },
+        "properties": {
+            "NO": "25",
+            "Date": "9/19 (금)",
+            "City": "마드리드",
+            "Time": "19:30",
+            "Place": "한마당 마드리드",
+            "Address": "Calle Padre Rubio, 55 28029 Madrid"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-9.1583919, 38.7738019]
+        },
+        "properties": {
+            "NO": "26",
+            "Date": "9/20 (토)",
+            "City": "리스본",
+            "Time": "15:00",
+            "Place": "한국어학교 (Colegio Sao Joao de Brito)",
+            "Address": "Estrada da Torre 28, 1769-004 Lisboa Portugal"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-0.1421002, 51.51701139]
+        },
+        "properties": {
+            "NO": "27",
+            "Date": "9/21 (일)",
+            "City": "런던",
+            "Time": "18:00",
+            "Place": "University of Westminster (LITTLE TITCHFIELD STREET - New Large Lecture Theatre)",
+            "Address": "4-12 Little Titchfield Street, London W1W 7BY, UK"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-3.1912495, 55.95]
+        },
+        "properties": {
+            "NO": "28",
+            "Date": "9/22 (월)",
+            "City": "에딘버러",
+            "Time": "19:00",
+            "Place": "Augustine United Church (Sanctuary)",
+            "Address": "41 George IV Bridge, Edinburgh EH1 1EL"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-6.2597, 53.3478]
+        },
+        "properties": {
+            "NO": "29",
+            "Date": "9/23 (화)",
+            "City": "더블린",
+            "Time": "19:00",
+            "Place": "Trinity College Dublin Arts Building (인문 사회관) Room 2043",
+            "Address": "College Green, Dublin 2,Ireland (입구는 Nassau Street/Dawson Street)"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.11660429999999, 42.3763452]
+        },
+        "properties": {
+            "NO": "30",
+            "Date": "9/24 (수)",
+            "City": "보스턴",
+            "Time": "19:00",
+            "Place": "Harvard Univ. Science Center Hall C",
+            "Address": "1 Oxford St, Cambridge, MA 02138"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.5770007, 45.48536499999999]
+        },
+        "properties": {
+            "NO": "31",
+            "Date": "9/25 (목)",
+            "City": "몬트리올",
+            "Time": "19:00",
+            "Place": "Saint Cunegonde Church",
+            "Address": "2461 Rue Saint-Jacques, Montreal,QC H3J 1H8"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-75.6950147, 45.4168406]
+        },
+        "properties": {
+            "NO": "32",
+            "Date": "9/26 (금)",
+            "City": "오타와",
+            "Time": "19:00",
+            "Place": "Dominion Chalmers United Church",
+            "Address": "355 Coopers St. Ottawa,On K2P 0G8 Canada"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-79.35, 43.73]
+        },
+        "properties": {
+            "NO": "33",
+            "Date": "9/27 (토)",
+            "City": "토론토",
+            "Time": "17:00",
+            "Place": "토론토 한인회관",
+            "Address": "1133 Leslie St. Toronto,On. M2N 0G5 Canada"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.21453500000001, 42.9251484]
+        },
+        "properties": {
+            "NO": "34",
+            "Date": "9/28 (일)",
+            "City": "캐나다런던",
+            "Time": "15:00",
+            "Place": "Ramada",
+            "Address": "817 Exeter Rd, London, ON N6E 1W1, Canada"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-78.861955, 43.00015399999999]
+        },
+        "properties": {
+            "NO": "35",
+            "Date": "9/29 (월)",
+            "City": "버팔로",
+            "Time": "19:00",
+            "Place": "버팔로 한인성당",
+            "Address": "9 O`Hara Rd. Tonawanda, NY 14150"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-76.1369752, 43.0401763]
+        },
+        "properties": {
+            "NO": "36",
+            "Date": "9/30 (화)",
+            "City": "시라큐스",
+            "Time": "19:00",
+            "Place": "Grant Auditorium at Syracuse University College of Law",
+            "Address": "900 South Crouse Ave. Syracuse, NY 13244 (White Hall, West Zone)"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-74.6514481, 40.3439888]
+        },
+        "properties": {
+            "NO": "37",
+            "Date": "10/01 (수)",
+            "City": "프린스턴대(외국인)",
+            "Time": "12:30",
+            "Place": "Princeton University, McCormick Hall #101",
+            "Address": "Princeton University, Princeton, NJ 08544Google Map: https://goo.gl/maps/t2LQj"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.98167529999999, 40.747795]
+        },
+        "properties": {
+            "NO": "38",
+            "Date": "10/01 (수)",
+            "City": "맨하탄(한국인)",
+            "Time": "18:00",
+            "Place": "Community Church of New York",
+            "Address": "40 E 35th St . New York, NY"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.9616807, 40.81125720000001]
+        },
+        "properties": {
+            "NO": "39",
+            "Date": "10/02 (목)",
+            "City": "맨하탄(외국인)",
+            "Time": "19:00",
+            "Place": "James Memorial Chapel-Union Theological Seminary",
+            "Address": "3041 Broadway at 121 St, New York, NY"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.85138069999999, 41.4010747]
+        },
+        "properties": {
+            "NO": "40",
+            "Date": "10/03 (금)",
+            "City": "커네티컷",
+            "Time": "19:00",
+            "Place": "BEST WESTERN PLUS NORTH HAVEN HOTEL.",
+            "Address": "201 Washington Ave. N Haven, CT 06473"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.518543, 40.8032097]
+        },
+        "properties": {
+            "NO": "41",
+            "Date": "10/04 (토)",
+            "City": "롱아일랜드",
+            "Time": "11:00",
+            "Place": "AEROSTAR",
+            "Address": "163 Eileen way. Syosset, NY 11791"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.93856149999999, 40.9029391]
+        },
+        "properties": {
+            "NO": "42",
+            "Date": "10/04 (토)",
+            "City": "뉴저지",
+            "Time": "18:00",
+            "Place": "St. Thomas Armenian Church",
+            "Address": "174 Essex Dr. Tenefly, NJ 07670"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.827907, 40.76505270000001]
+        },
+        "properties": {
+            "NO": "43",
+            "Date": "10/05 (일)",
+            "City": "뉴욕플러싱",
+            "Time": "17:00",
+            "Place": "Flushing High School",
+            "Address": "35-21 Union st. Flushing, NY 11354"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-76.829194, 39.2735879]
+        },
+        "properties": {
+            "NO": "44",
+            "Date": "10/06 (월)",
+            "City": "메릴랜드",
+            "Time": "19:00",
+            "Place": "St. John’s Episcopal Church",
+            "Address": "9120 Frederick Rd, Ellicott City, MD 21042"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.27646639999999, 38.8126794]
+        },
+        "properties": {
+            "NO": "45",
+            "Date": "10/07 (화)",
+            "City": "북버지니아",
+            "Time": "19:00",
+            "Place": "Lutheran Church",
+            "Address": "5114 Twinbrook Road, Fairfax,VA?2203"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.05, 38.90]
+        },
+        "properties": {
+            "NO": "46",
+            "Date": "10/08 (수)",
+            "City": "GWU(외국인)",
+            "Time": "18:00-20:00",
+            "Place": "George Washington Univ.",
+            "Address": "추후안내 혹은 강연전 담당자에게 문의"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-75.1391014, 40.0598626]
+        },
+        "properties": {
+            "NO": "47",
+            "Date": "10/13 (월)",
+            "City": "필라델피아",
+            "Time": "19:00",
+            "Place": "HOLY ANGELS CHURCH",
+            "Address": "7000 Old York RD. Philadelphia, PA19126"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-76.4838915, 37.0666311]
+        },
+        "properties": {
+            "NO": "48",
+            "Date": "10/14 (화)",
+            "City": "뉴포트 뉴스",
+            "Time": "19:00",
+            "Place": "CNU Lewis Archer McMurran Jr. Hall 101",
+            "Address": "1 Avenue of the Arts Newport News, VA 23606"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-78.6712541, 35.7861041]
+        },
+        "properties": {
+            "NO": "49",
+            "Date": "10/15 (수)",
+            "City": "NCSU(랄리,NC)",
+            "Time": "19:00",
+            "Place": "NCSU Dabney Hall 222",
+            "Address": "2620 Yarbrough Dr. Raleigh, NC 27695"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.763547, 30.201373]
+        },
+        "properties": {
+            "NO": "50",
+            "Date": "10/16 (목)",
+            "City": "잭슨빌",
+            "Time": "19:00",
+            "Place": "잭슨빌 한인성당",
+            "Address": "8051 Rampart Rd, Jacksonville, FL 32244"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-82.479061, 28.01663]
+        },
+        "properties": {
+            "NO": "51",
+            "Date": "10/17 (금)",
+            "City": "탬파",
+            "Time": "19:00",
+            "Place": "한인회관",
+            "Address": "1908 W. Patterson St, Tampa, FL 33604"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.343581, 28.687922]
+        },
+        "properties": {
+            "NO": "52",
+            "Date": "10/18 (토)",
+            "City": "올랜도",
+            "Time": "16:00",
+            "Place": "Lyman High School",
+            "Address": "?865 S. Ronald Reagan Rd, Longwood, FL 32750"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.1778293, 34.0390321]
+        },
+        "properties": {
+            "NO": "53",
+            "Date": "10/19 (일)",
+            "City": "아틀란타",
+            "Time": "16:00",
+            "Place": "Northview High School Auditorium",
+            "Address": "10625 Parsons Rd ,Johns Creek, GA 30097"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-95.5070298, 29.8039621]
+        },
+        "properties": {
+            "NO": "54",
+            "Date": "10/20 (월)",
+            "City": "텍사스 휴스턴",
+            "Time": "19:00",
+            "Place": "휴스턴한인커뮤니티센터",
+            "Address": "1809 Hollister Rd. Houston TX 77080"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-96.3535679, 30.5964819]
+        },
+        "properties": {
+            "NO": "55",
+            "Date": "10/21 (화)",
+            "City": "Texas A&M 대학(외국인)",
+            "Time": "12:20-13:30",
+            "Place": "Texas A&M University, Bush Presidential Library, Orientation Theater",
+            "Address": "1000 George Bush Drive West, College Station, TX 77845"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-97.74, 30.27]
+        },
+        "properties": {
+            "NO": "56",
+            "Date": "10/21 (화)",
+            "City": "오스틴",
+            "Time": "19:00",
+            "Place": "추후안내 혹은 강연전 담당자에게 문의",
+            "Address": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-96.903944, 32.919564]
+        },
+        "properties": {
+            "NO": "57",
+            "Date": "10/22 (수)",
+            "City": "달라스",
+            "Time": "19:00",
+            "Place": "Springlake Center",
+            "Address": "2280 Springlake Rd. #100, Farmers Branch, TX 75234"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-93.1802094, 44.9263223]
+        },
+        "properties": {
+            "NO": "58",
+            "Date": "10/23 (목)",
+            "City": "미네소타",
+            "Time": "19:00",
+            "Place": "Sisters of St Joseph of Carondelet",
+            "Address": "1890 Randolph Ave, St Paul, MN 55105"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-89.39966299999999, 43.07611800000001]
+        },
+        "properties": {
+            "NO": "59",
+            "Date": "10/24 (금)",
+            "City": "위스콘신 메디슨",
+            "Time": "19:00",
+            "Place": "Memorial Union at Univ. of Wisconsin-Madison",
+            "Address": "800 Langdon St., Madison, WI 53706"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-87.9083773, 42.1106623]
+        },
+        "properties": {
+            "NO": "60",
+            "Date": "10/25 (토)",
+            "City": "시카고",
+            "Time": "18:00",
+            "Place": "시카고 한인 문화회관",
+            "Address": "9930 S. Capitol Dr. Wheeling, IL 60090"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-83.7381556, 42.2807892]
+        },
+        "properties": {
+            "NO": "61",
+            "Date": "10/26 (일)",
+            "City": "앤 아버(한국인)",
+            "Time": "15:00",
+            "Place": "Univ. of michigan , Rackham Building, 4th fl. Amphitheatre",
+            "Address": "915 E. Washington St.,Ann Arbor, MI 48109"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-83.7381556, 42.2807892]
+        },
+        "properties": {
+            "NO": "62",
+            "Date": "10/26 (일)",
+            "City": "앤 아버(외국인)",
+            "Time": "19:30",
+            "Place": "Univ. of Michigan,Rackham Building, Assembly Hall (Fourth Floor)",
+            "Address": "915 E. Washington St.,Ann Arbor, MI 48109"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-79.9359065, 40.4966545]
+        },
+        "properties": {
+            "NO": "63",
+            "Date": "10/27 (월)",
+            "City": "피츠버그",
+            "Time": "19:00",
+            "Place": "피츠버그 성 김대건 한인성당",
+            "Address": "623 High Street, Sharpsburg, PA 15215"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-83.01883590000001, 40.10636]
+        },
+        "properties": {
+            "NO": "64",
+            "Date": "10/28 (화)",
+            "City": "콜럼버스",
+            "Time": "19:00",
+            "Place": "Holiday Inn (Worthington Room)",
+            "Address": "7007 N.High St.Worthington,OH 43085"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-86.169927, 39.832994]
+        },
+        "properties": {
+            "NO": "65",
+            "Date": "10/29 (수)",
+            "City": "인디애나 폴리스",
+            "Time": "19:00",
+            "Place": "Unitarian Universalist church of IN.",
+            "Address": "615 W. 43rd St,Indianapolis, IN 46208"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-88.22929, 40.1065381]
+        },
+        "properties": {
+            "NO": "66",
+            "Date": "10/30 (목)",
+            "City": "일리노이 대",
+            "Time": "11:00",
+            "Place": "University of Illinois at Urbana-Champaign ",
+            "Address": "1001 S. Wright St., Champaign, IL 61820"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-90.34788300000001, 38.65101]
+        },
+        "properties": {
+            "NO": "67",
+            "Date": "10/30 (목)",
+            "City": "St. Louis (미주리)",
+            "Time": "19:30",
+            "Place": "The Center of Clayton",
+            "Address": "50 Gay Ave., Clayton, MO 63105"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-94.74619960000001, 39.02074959999999]
+        },
+        "properties": {
+            "NO": "68",
+            "Date": "10/31 (금)",
+            "City": "켄사스 시티",
+            "Time": "19:00",
+            "Place": "Shawnee Civic Centre",
+            "Address": "13817 Johnson Drive, Shawnee, KS 66216"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-104.903098, 39.654516]
+        },
+        "properties": {
+            "NO": "69",
+            "Date": "11/01 (토)",
+            "City": "덴버",
+            "Time": "16:00",
+            "Place": "Embassy Suites Denver - Southeast",
+            "Address": "7525 East Hampden Ave, Denver. CO 80231"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-111.8913765, 40.5367272]
+        },
+        "properties": {
+            "NO": "70",
+            "Date": "11/02 (일)",
+            "City": "솔트레이크 시티",
+            "Time": "16:00",
+            "Place": "Comfort Inn",
+            "Address": "12033 South State Street Draper, UT, 84020"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.4979392, 47.1760978]
+        },
+        "properties": {
+            "NO": "71",
+            "Date": "11/03 (월)",
+            "City": "타코마",
+            "Time": "18:30",
+            "Place": "McGavick Conference Center@Clover Park Tech. College",
+            "Address": "4500 Steilacoom Blvd SW, Lakewood, WA 98499"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-123.068585, 49.255531]
+        },
+        "properties": {
+            "NO": "72",
+            "Date": "11/04 (화)",
+            "City": "캐나다벤쿠버",
+            "Time": "19:00",
+            "Place": "Croatian Cultural Centre",
+            "Address": "3250 Commercial Drive, Vancouver B.C.Canada V5N 4E4"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-114.057859, 51.04647300000001]
+        },
+        "properties": {
+            "NO": "73",
+            "Date": "11/05 (수)",
+            "City": "캐나다 캘거리",
+            "Time": "18:30",
+            "Place": "John Dutton Theatre (다운타운 도서관 2층)",
+            "Address": "616 Macleod Trail SE,Calgary, AB T2G 2M2,Canada"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.1969932, 47.48073850000001]
+        },
+        "properties": {
+            "NO": "74",
+            "Date": "11/06 (목)",
+            "City": "시에틀",
+            "Time": "18:30",
+            "Place": "Carco Theatre",
+            "Address": "1717 Southeast Maple Valley Highway, Renton, WA 98057"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.7924259, 45.5062072]
+        },
+        "properties": {
+            "NO": "75",
+            "Date": "11/07 (금)",
+            "City": "포틀랜드",
+            "Time": "19:00",
+            "Place": "Cedar Park Middle School",
+            "Address": "11100 SW Park Way, Portland, OR 97225"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.043228, 37.377203]
+        },
+        "properties": {
+            "NO": "76",
+            "Date": "11/08 (토)",
+            "City": "산호세(외국인)",
+            "Time": "14:00",
+            "Place": "Saint Thomas Episcopal Church",
+            "Address": "231 Sunset Avenue, Sunnyvale, CA 94086"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.043228, 37.377203]
+        },
+        "properties": {
+            "NO": "77",
+            "Date": "11/08 (토)",
+            "City": "산호세(한국인)",
+            "Time": "18:00",
+            "Place": "Saint Thomas Episcopal Church",
+            "Address": "231 Sunset Avenue, Sunnyvale, CA 94086"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-121.3519737, 38.5465215]
+        },
+        "properties": {
+            "NO": "78",
+            "Date": "11/09 (일)",
+            "City": "세크라멘토",
+            "Time": "15:00",
+            "Place": "정혜엘리사벳 한인천주교회",
+            "Address": "9354 Kiefer Blvd., Sacramento, CA 95826"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.084081, 37.422069]
+        },
+        "properties": {
+            "NO": "79",
+            "Date": "11/10 (월)",
+            "City": "구글 (Private)",
+            "Time": "14:00",
+            "Place": "마우틴 뷰: 구글 캠퍼스",
+            "Address": "Private Meeting"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.1827524, 37.7733379]
+        },
+        "properties": {
+            "NO": "80",
+            "Date": "11/10 (월)",
+            "City": "오클랜드(한국인)",
+            "Time": "19:00",
+            "Place": "오클랜드 성 김대건한인천주교회",
+            "Address": "6226 Camden St. Oakland, CA 94605"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-119.095272, 35.393396]
+        },
+        "properties": {
+            "NO": "81",
+            "Date": "11/11 (화)",
+            "City": "베이커스필드",
+            "Time": "19:00",
+            "Place": "Riverlakes Ranch Community Center",
+            "Address": "3825 Riverlakes Dr, Bakersfield, CA 93312"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-115.2310894, 36.158381]
+        },
+        "properties": {
+            "NO": "82",
+            "Date": "11/12 (수)",
+            "City": "라스베가스",
+            "Time": "19:00",
+            "Place": "West Charleston Library",
+            "Address": "6301 Charleston Blvd., Las Vegas NV 89146"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-111.909869, 33.3268932]
+        },
+        "properties": {
+            "NO": "83",
+            "Date": "11/13 (목)",
+            "City": "피닉스",
+            "Time": "19:00",
+            "Place": "성김효임콜롬바성당",
+            "Address": "1375 N. McClintock Dr, Chandler, AZ 85226"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-117.174555, 32.8326121]
+        },
+        "properties": {
+            "NO": "84",
+            "Date": "11/14 (금)",
+            "City": "샌디에고",
+            "Time": "19:00",
+            "Place": "James Madison High School",
+            "Address": "4833 Doliva Dr., San Diego, CA 92117"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-118.3106428, 34.0488822]
+        },
+        "properties": {
+            "NO": "85",
+            "Date": "11/15 (토)",
+            "City": "엘에이",
+            "Time": "16:00",
+            "Place": "예수그리스도후기성도교회",
+            "Address": "1209 S. Manhattan Pl., Los Angeles, CA90019"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-118.4431764, 34.072949]
+        },
+        "properties": {
+            "NO": "86",
+            "Date": "11/16 (일)",
+            "City": "엘에이(외국인)",
+            "Time": "11:00-13:00",
+            "Place": "UCLA Fowler Museum Building",
+            "Address": "308 Charles E Young Dr N, Los Angeles, CA 90024"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-117.9970151, 33.8576685]
+        },
+        "properties": {
+            "NO": "87",
+            "Date": "11/16 (일)",
+            "City": "오렌지 카운티",
+            "Time": "16:00",
+            "Place": "Holiday Inn",
+            "Address": "7000 Beach Blvd., Buena Park, CA 90620"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-117.4617215, 33.9291045]
+        },
+        "properties": {
+            "NO": "88",
+            "Date": "11/19 (수)",
+            "City": "리버 사이드",
+            "Time": "19:00",
+            "Place": "성김대건 앤드류 한인성당",
+            "Address": "4750 Challen Ave. Riverside, CA 92503"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-99.17, 19.42]
+        },
+        "properties": {
+            "NO": "89",
+            "Date": "11/20 (목)",
+            "City": "멕시코 시티",
+            "Time": "19:00",
+            "Place": "멕시코시티한인천주교회 (Korean Catholic Church of Mexico)",
+            "Address": "#51 varsovia, zona rosa col. Cuauhtemoc, Mexico D.F"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-90.5943697, 14.6317949]
+        },
+        "properties": {
+            "NO": "90",
+            "Date": "11/21 (금)",
+            "City": "과테말라 시티",
+            "Time": "19:00",
+            "Place": "과테말라 성김대건 안드레아 한인성당",
+            "Address": "1 Calle B 5-29 Lotificacion Cotio Zona 2 de Mixco Guatemala"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.0679545, -12.0876148]
+        },
+        "properties": {
+            "NO": "91",
+            "Date": "11/22 (토)",
+            "City": "페루 리마",
+            "Time": "19:00",
+            "Place": "페루 성김대건 안드레아 한인성당 Parroquia San Andres Kim",
+            "Address": "Jr. Libertad 1164, Magdalena Del mar, Peru"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-46.64, -23.53]
+        },
+        "properties": {
+            "NO": "92",
+            "Date": "11/23 (일)",
+            "City": "브라질 상파울로",
+            "Time": "19:00",
+            "Place": "Colegio Santa Ines Auditorio (산타이네스 학교 대강당)",
+            "Address": "Rua Tres Rios, 362 Bom Retiro Sao Paulo, SP - CEP: 01123-000"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-58.3815931, -34.6037232]
+        },
+        "properties": {
+            "NO": "93",
+            "Date": "11/24 (월)",
+            "City": "아르헨티나 부에노스아이레스",
+            "Time": "17:00",
+            "Place": "천주교 재야 한국 순교 성인 성당",
+            "Address": "Thorne 1261 Cap.Fed. Buenos Aires Argentina"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-70.6426819, -33.3967069]
+        },
+        "properties": {
+            "NO": "94",
+            "Date": "11/25 (화)",
+            "City": "칠레 산티에고",
+            "Time": "15:00",
+            "Place": "MANZANO 377, 5층 SALON NORTE" ,
+            "Address": "Recoleta, Santiago, Chile"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [174.7038487, -36.7257103]
+        },
+        "properties": {
+            "NO": "95",
+            "Date": "11/27 (목)",
+            "City": "뉴질랜드 오클랜드",
+            "Time": "19:00",
+            "Place": "QBE Stadium(North Harbour Stadium)",
+            "Address": "Stadium Dr, Albany, Auckland 0632"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [145.129819, -37.873678]
+        },
+        "properties": {
+            "NO": "96",
+            "Date": "11/28 (금)",
+            "City": "호주 멜번",
+            "Time": "19:00",
+            "Place": "The Holy Family Catholic Church",
+            "Address": "236 Stephensons Rd, Mt Waverley VIC 3149"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [153.050923, -27.558428]
+        },
+        "properties": {
+            "NO": "97",
+            "Date": "11/29 (토)",
+            "City": "호주 브리즈번",
+            "Time": "14:00",
+            "Place": "Griffith Nathan Campus, N22 Northern Theatre 1",
+            "Address": "170 Kessels Rd, Nathan Qld 4111"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [151.1851256, -33.8848874]
+        },
+        "properties": {
+            "NO": "98",
+            "Date": "11/30 (일)",
+            "City": "호주 시드니",
+            "Time": "15:00",
+            "Place": "Footbridge Theatre",
+            "Address": "Parramatta Rd, University of Sydney Glebe 2037"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [106.85, -6.21]
+        },
+        "properties": {
+            "NO": "99",
+            "Date": "12/01 (월)",
+            "City": "인도네시아 자카르타",
+            "Time": "18:30",
+            "Place": "한국문화원",
+            "Address": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [103.848409, 1.297623]
+        },
+        "properties": {
+            "NO": "100",
+            "Date": "12/02 (화)",
+            "City": "싱가포르",
+            "Time": "19:00",
+            "Place": "YMCA 1층 대강당",
+            "Address": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.69, 3.14]
+        },
+        "properties": {
+            "NO": "101",
+            "Date": "12/03 (수)",
+            "City": "말레이시아 콰알라룸푸르",
+            "Time": "19:00",
+            "Place": "한국 대사관",
+            "Address": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [96.15, 16.78]
+        },
+        "properties": {
+            "NO": "102",
+            "Date": "12/04 (목)",
+            "City": "미얀마 양곤(랑군)",
+            "Time": "18:00",
+            "Place": "인야 레이크 호텔",
+            "Address": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [100.50, 13.76]
+        },
+        "properties": {
+            "NO": "103",
+            "Date": "12/05 (금)",
+            "City": "태국 방콕",
+            "Time": "14:30",
+            "Place": "한국문화원",
+            "Address": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [104.89, 11.54]
+        },
+        "properties": {
+            "NO": "104",
+            "Date": "12/06 (토)",
+            "City": "캄보디아 프놈펜",
+            "Time": "17:00",
+            "Place": "프놈펜 왕립대학교 코이카강당",
+            "Address": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [105.83, 21.03]
+        },
+        "properties": {
+            "NO": "105",
+            "Date": "12/07 (일)",
+            "City": "베트남 하노이",
+            "Time": "18:00",
+            "Place": "그랜드 프라자 호텔",
+            "Address": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [106.63, 10.82]
+        },
+        "properties": {
+            "NO": "106",
+            "Date": "12/08 (월)",
+            "City": "베트남 호치민 시티",
+            "Time": "14:00",
+            "Place": "한인회관",
+            "Address": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [120.98, 14.60]
+        },
+        "properties": {
+            "NO": "107",
+            "Date": "12/09 (화)",
+            "City": "필리핀 마닐라",
+            "Time": "19:00",
+            "Place": "Asia and the Pacific College Auditorium, Magallanes Village Makati",
+            "Address": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [123.89, 10.32]
+        },
+        "properties": {
+            "NO": "108",
+            "Date": "12/10 (수)",
+            "City": "필리핀 세부",
+            "Time": "19:00",
+            "Place": "Benedicto College Artist Hall, As.foruna St Mandaue City, Cebu",
+            "Address": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [121.63, 25.03]
+        },
+        "properties": {
+            "NO": "109",
+            "Date": "12/11 (목)",
+            "City": "대만 타이뻬이",
+            "Time": "19:00",
+            "Place": "台北市 和平東路一段 129-1號 教育大樓 201演講廳 師範大學 圖書館校區",
+            "Address": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [114.11, 22.40]
+        },
+        "properties": {
+            "NO": "110",
+            "Date": "12/12 (금)",
+            "City": "홍콩",
+            "Time": "19:00",
+            "Place": "Bradbury School (강당)",
+            "Address": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [138.25, 36.20]
+        },
+        "properties": {
+            "NO": "111",
+            "Date": "12/15 (월)",
+            "City": "일본 동경신쥬큐",
+            "Time": "18:00",
+            "Place": "아스카 신용조합 본점",
+            "Address": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [141.20, 39.92]
+        },
+        "properties": {
+            "NO": "112",
+            "Date": "12/16 (화)",
+            "City": "일본 가와구찌",
+            "Time": "19:00",
+            "Place": "리리아",
+            "Address": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [136.91, 35.18]
+        },
+        "properties": {
+            "NO": "113",
+            "Date": "12/17 (수)",
+            "City": "일본 나고야",
+            "Time": "19:00",
+            "Place": "아이겐 산업노동조합 센타",
+            "Address": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [135.77, 35.01]
+        },
+        "properties": {
+            "NO": "114",
+            "Date": "12/18 (목)",
+            "City": "일본 교토",
+            "Time": "14:00",
+            "Place": "교토 히토마치 교류관",
+            "Address": ""
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [135.50, 34.69]
+        },
+        "properties": {
+            "NO": "115",
+            "Date": "12/18 (목)",
+            "City": "일본 오사카",
+            "Time": "18:30",
+            "Place": "오사카 시립아베노 구민센타",
+            "Address": ""
+        }
+    } ]
+}

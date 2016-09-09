@@ -115,10 +115,11 @@ function gup( name ){
 	return results[1];
 }
 
-var  p = gup('p');
-var t = gup('t');
-var  fromPt = parseInt(p) - 1;
-	console.log("p" + p +", fromPt" + fromPt);
+if(gup('p')) var p = gup('p');
+else var p = 2;
+if(gup('t')) var t = gup('t');
+else var t = "plane";
+var fromPt = parseInt(p) - 1;
 var map
 var stopListHtml;
 var jtsMarker, jtsMarkerPlane;
@@ -131,39 +132,6 @@ $(document).ready(function () {
 		attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a>',
 		maxZoom: 18
 	}).addTo(map);
-	
-	L.NumberedDivIcon = L.Icon.extend({
-		options: {
-		iconUrl: 'images/bluedot50.png',
-		number: '',
-		shadowUrl: null,
-		iconSize: new L.Point(18, 18),
-		iconAnchor: new L.Point(9, 9),
-		popupAnchor: new L.Point(0, 0),
-		/*
-		iconAnchor: (Point)
-		popupAnchor: (Point)
-		*/
-		className: 'leaflet-div-icon'
-		},
-
-		createIcon: function () {
-		var div = document.createElement('div');
-		var img = this._createImg(this.options['iconUrl']);
-		var numdiv = document.createElement('div');
-		numdiv.setAttribute ( "class", "number" );
-		numdiv.innerHTML = this.options['number'] || '';
-		div.appendChild ( img );
-		div.appendChild ( numdiv );
-		this._setIconStyles(div, 'icon');
-		return div;
-		},
-
-		//you could change this to add a shadow like in the normal marker if you really wanted
-		createShadow: function () {
-		return null;
-		}
-	});
 	
 	var pCircle = L.icon({
         iconUrl: "images/blue16.png",
@@ -193,6 +161,7 @@ $(document).ready(function () {
 	if (t == "car") pTran = pCar;
 	else if (t == "train") pTran = pTrain;
 	else if (t == "plane") pTran = pPlane;
+	else pTran = pPlane;
 			
 	stopListHtml = "<label for='stopList' class='select' style='height:0px;font-size:0px;'></label><select name='stopList' id='stopList' data-mini='true' onchange='changeOpt(value);'><option value='0'>Or choose a city</option>";
 	
@@ -218,6 +187,11 @@ $(document).ready(function () {
 					//var marker = L.marker(latlng, {icon: p}).addTo(map);	
 				}			
 
+				if (fromPt == 0){
+					jtsMarkerPlane = L.marker([24.435171, 54.660116], {icon: pTran}); //.addTo(map);				
+					//map.panTo([24.435171, 54.660116]);	
+					map.panTo(new L.LatLng(24.435171, 54.660116));					
+				}
 				//else jtsMarker = new L.Marker(latlng, {icon:	new L.NumberedDivIcon({number: numberIcon})});
 			
 				//return L.marker(latlng, {icon: p});
@@ -259,11 +233,11 @@ $(document).ready(function () {
 		stopListHtml += "</select>";
 		$("#stopListG").html(stopListHtml);
 		
-						console.log(pLatlng);
-					jtsMarkerPlane.slideTo(pLatlng, {
-						duration: 5000,
-						keepAtCenter: true
-					});			
+		//slide animation
+		jtsMarkerPlane.slideTo(pLatlng, {
+			duration: 5000,
+			keepAtCenter: true
+		});			
 
 	});
 
